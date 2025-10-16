@@ -8,5 +8,4 @@
 7. Deploy THe Site
 8. Copy/Visit The Link
 9. Share With Our Discord Server!
-[
-](https://discord.gg/sqPFYEsz8F)
+https://discord.gg/sqPFYEsz8F
